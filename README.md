@@ -1,0 +1,1 @@
+# swapi-jest-testing
